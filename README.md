@@ -10,5 +10,5 @@ Languages:
 https://devforum.roblox.com/u/ChickwensRule
 
 #### Contact 💬
-* ChickwensRule#1000 via Discord
-* chickwensrule@gmail.com via email
+* @chickwensrule on Discord
+* chickwensrule@gmail.com through email
