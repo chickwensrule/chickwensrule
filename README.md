@@ -1,8 +1,13 @@
 #### About me 🐤
+Hello, I am a developer that has a mild obsession with chickens!
 
-Hello, I am mildly obsessed with chickens and like to program mainly in Python and Lua, currently learning JS and HTML/CSS. I am familiar with discord.py and PyQt.
+Languages:
+- Python (discord.py, PyQt)
+- Luau
+- Java
+- Basic JS and HTML/CSS
 
-https://chickwensrule.github.io
+https://devforum.roblox.com/u/ChickwensRule
 
 #### Contact 💬
 * ChickwensRule#1000 via Discord
